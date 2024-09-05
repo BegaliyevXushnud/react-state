@@ -1,6 +1,6 @@
 
 import React from "react";
-import Invoice from "./Invoice";
+import Invoice from "./invoice";
 
 const InvoiceLayout = () => {
   return (
